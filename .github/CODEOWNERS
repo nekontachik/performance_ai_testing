@@ -1,0 +1,11 @@
+# These owners will be the default owners for everything in the repo
+* @nekontachik
+
+# Locust test files
+/locustfiles/ @nekontachik
+
+# Analysis script
+/analyze_reports.py @nekontachik
+
+# Documentation
+*.md @nekontachik 
